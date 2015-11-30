@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ImagenesWeb</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_descarga">Descarga</string>
+    <string name="title_activity_visualizador">Visualizador</string>
+    <string name="buscando">Buscando imagenes en la web</string>
+    <string name="descargando">Descargando imagenes de la web</string>
+</resources>
